@@ -12,9 +12,11 @@ All game mechanics and features were written solely by me, Davis Silverman. No o
 
 ## External Resources ##
 
-* `XboxCtrlrInput` library was used for cross-platform Xbox controller support.
+* `[XboxCtrlrInput](https://github.com/JISyed/Unity-XboxCtrlrInput)`
+library was used for cross-platform Xbox controller support.
     * If you are testing on a Mac, install this [360Controller](https://github.com/360Controller/360Controller/releases)
-* `NavMeshComponents` for creating nav meshes at runtime.
+* `[NavMeshComponents](https://github.com/Unity-Technologies/NavMeshComponents)`
+for creating nav meshes at runtime.
 * Unity3D was used for the engine.
 * Music was provided royalty free by Incompetech, Kevin Macleod.
 * Models and animations were procured from Mixamo.
